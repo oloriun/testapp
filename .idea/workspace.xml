@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="253765a1-d491-4856-802e-0838e7398d0b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,8 +60,8 @@
       <file leaf-file-name="production.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.86807096" vertical-offset="526" max-vertical-offset="1428">
-              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.849224" vertical-offset="526" max-vertical-offset="1462">
+              <caret line="76" column="63" selection-start-line="76" selection-start-column="63" selection-end-line="76" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -461,12 +459,12 @@
       <created>1425391079970</created>
       <option name="number" value="Default" />
       <updated>1425391079970</updated>
-      <workItem from="1425391080221" duration="9795000" />
+      <workItem from="1425391080221" duration="10256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9795000" />
+    <option name="totallyTimeSpent" value="10256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="809" y="0" width="1111" height="1080" extended-state="0" />
@@ -587,8 +585,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.86807096" vertical-offset="526" max-vertical-offset="1428">
-          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.849224" vertical-offset="526" max-vertical-offset="1462">
+          <caret line="76" column="63" selection-start-line="76" selection-start-column="63" selection-end-line="76" selection-end-column="63" />
           <folding />
         </state>
       </provider>
